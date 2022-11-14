@@ -1,0 +1,39 @@
+header {
+  display: flex;
+  color: black;
+  background-color: rgba(28, 28, 28, 0.95);
+  font-family: Arial;
+  font-size: large;
+}
+
+header h1 {
+  color: white;
+  align-self: center;
+  justify-content: center;
+  margin: 0px auto;
+  font-family: Arial;
+  font-size: medium;
+}
+
+header img {
+  align-self: center;
+  justify-content: flex-start;
+}
+
+main div {
+  display: flex;
+  justify-content: center;
+  flex-flow: column wrap;
+  align-items: center;
+}
+
+footer div {
+  display: flex;
+
+}
+
+footer div h5 i{
+  color: darkred;
+
+}
+
